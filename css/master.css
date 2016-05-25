@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+}
+
+.sidebar li {
+  color: blue;
+  font-weight: bold;
+}
+
+.main-content {
+  width: 70%;
+  float: right;
+}
+
+.main-content li {
+  line-height: 200px;
+  list-style: none;
+}
+
+li img {
+  height: 175px;
+}
